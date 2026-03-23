@@ -43,6 +43,7 @@
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **[University Microservices System](https://github.com/pieter0100/servicesInJavaAndAngularFrontend)** | `Java` `Spring Boot` `Angular` `Docker` | A scalable distributed system demonstrating the transition from monolith to microservices. Features container orchestration using Docker Compose and independent departmental services. |
+| **[Wordle Clone](https://github.com/pieter0100/wordleClone)** | `React` `JavaScript` `CSS` | A clone of the popular word game built from scratch. Features classic mechanics, a dynamic color-coded hint system, full keyboard support, and a responsive design. |
 | **[Learn Multiplication App](https://github.com/pieter0100/projektGrupowy)** | `Flutter` `Dart` `Android/iOS` | Cross-platform mobile application with gamification elements (levels, rewards) designed to help children master mathematics. |
 | **[Linear Regression from Scratch](https://github.com/pieter0100/linearRegression)** | `Python` `NumPy` `Matplotlib` | Implementation of the Gradient Descent algorithm without high-level libraries (like Scikit-learn) to demonstrate a core understanding of ML mathematical foundations. |
 
